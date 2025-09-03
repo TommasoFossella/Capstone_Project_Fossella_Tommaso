@@ -29,4 +29,4 @@ Qualità di Vita & Lavoro 🌱: Un approfondimento sulla correlazione tra lo sti
 
 L'Impatto del Remote Work 🏠➡️🏢: La sezione conclusiva che evidenzia l'influenza diretta del lavoro da remoto, ibrido o in presenza sulla salute mentale.
 
-Licenza: Questo progetto è di dominio pubblico. Sentitevi liberi di esplorare, condividere e utilizzare i contenuti per qualsiasi tipo di scopo.
+Licenza: Questo progetto è realizzato con una licenza open source, è quindi di dominio pubblico. Sentitevi liberi di esplorare, condividere e utilizzare i contenuti per qualsiasi tipo di scopo.
